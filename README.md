@@ -1,5 +1,5 @@
-🚨 **Kansas City 311 Service Request Analysis
-**
+🚨 Kansas City 311 Service Request Analysis
+
 Tools Used: Alteryx, SQL (MySQL), Power BI, Tableau
 Skills Highlighted: Data Profiling · ETL · Data Modeling · Dashboard Development · Business Intelligence · Data Analysis · Public Sector Analytics
 
